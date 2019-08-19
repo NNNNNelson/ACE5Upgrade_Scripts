@@ -1,0 +1,2 @@
+20161125:
+  Add the GetLocalInfrastructureCarVersion.py and GetFTPNewestInfrastructureCarBuild.py, can return the local IC build and FTP newest IC build. Need to continue to do in main.py to compare these two versions, then decide to do the upgrade or not. (Then do the detailed upgrade code...)
